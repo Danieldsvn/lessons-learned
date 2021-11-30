@@ -4,11 +4,37 @@ body {
 #cabecalho {
     position: fixed;
     top: 0;
+    text-align: center;
+
 }
 td, th {
     border: 1px solid blue;
+    font-size: 18px;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    color: orange;
+    line-height: 20px;
+   
     
 }
 .tapica-vermelha:hover {
     background-color: brown;
 } 
+#minha_foto {
+    margin: auto;
+    border: 2px solid saddlebrown;
+    border-radius: 85%;
+    padding: 5px;
+    background-color: salmon;
+
+}
+.lado-esquerdo {
+    display: inline-block;
+    width: 30%;
+}
+
+.lado-direito {
+    display: inline-block;
+    width: 30%;
+    float:right;
+
+}
