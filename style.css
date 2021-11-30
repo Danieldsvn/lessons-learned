@@ -5,3 +5,10 @@ body {
     position: fixed;
     top: 0;
 }
+td, th {
+    border: 1px solid blue;
+    
+}
+.tapica-vermelha:hover {
+    background-color: brown;
+} 
