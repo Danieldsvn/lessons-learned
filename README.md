@@ -1,4 +1,4 @@
-# :construction: README customizado em construção ! :construction:
+# Este foi o primeiro projeto feito na Trybe. O objetivo do projeto foi desenvolver uma página utilizando conhecimentos de HTML e CSS que abordasse os conteúdos aprendidos no curso até então.
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
 
